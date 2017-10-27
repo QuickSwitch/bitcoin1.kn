@@ -6,6 +6,6 @@ navigation: 1
 ---
 {{ site.description }}
 
-This Podcast is published by {{ site.author }}.  
+This Podcast is published by balaji testing {{ site.author }}.  
 Drop me a mail (<a href="mailto:{{ site.email }}">{{ site.email }}</a>) if you
 want.
